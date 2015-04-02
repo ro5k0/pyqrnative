@@ -101,7 +101,7 @@ def setup_package():
         author_email=AUTHOR_EMAIL,
         keywords=KEYWORDS,
         url=URL,
-        packages=['PyQRNative'],
+        packages=['pyqrnative'],
      )
 
 
